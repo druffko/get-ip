@@ -1,5 +1,3 @@
-![Repo-Image](https://massimo.gg/github-images/get-ip.webp)
-
 <div align="center">
 
 # Get-IP
@@ -67,9 +65,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### 📞 Contact
-
-For any inquiries, feel free to reach out:
-- email: [hi@massimo.gg](mailto:hi@massimo.gg)
-- X: [massimo-rnd](https://x.com/massimo-rnd)
-- [Discord](https://discord.gg/wmC5AA6c)
+## Other Wordpress Plugins built by me
+- [Wordpress Verified User](https://github.com/chrstph-gg/wordpress-verified-user)
+- [getUserInfo](https://github.com/chrstph-gg/getUserInfo)
+- [Woocommerce ACO - Autocomplete Orders](https://github.com/chrstph-gg/woocommerce-aco)
+- [Woocommerce Custom Emails](https://github.com/chrstph-gg/woocommerce-custom-emails)
+- [Woocommerce License Keys](https://github.com/chrstph-gg/woocommerce-license-keys)
